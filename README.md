@@ -13,7 +13,7 @@ Before running this script, make sure you have Python installed on your system. 
 Installation
 Clone this repository:
 bash
-git clone https://github.com/yourusername/word-to-pdf-converter.git
+git clone github repo link
 cd word-to-pdf-converter
 Install the required dependencies:
 bash
@@ -70,11 +70,10 @@ Future Enhancements
  GUI interface
  Support for .doc files
  Custom font selection
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
-Your Name - your.email@example.com
+
+ 
+With Love Xyden
 
 Acknowledgments
 ReportLab for PDF generation capabilities
